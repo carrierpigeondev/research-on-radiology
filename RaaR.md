@@ -67,7 +67,7 @@ Abdul-Ahad, Caden Joseph.\
 Doe, Jane E.\
 A brief history of the steam engine.\
 1 April 2024.\
-https://www.example.com/\
+https://www.example.com/ \
 Example Website
 
 """
