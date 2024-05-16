@@ -19,7 +19,7 @@ Every repository must have a `/research` directory or one that  is similarly tit
 
 Inside of the `/research` directory must be numerical reference text documents going in order from `0001.txt` to `9999.txt`.
 
-**Note that the file extension can either be `.txt` or `.md`, as long as it is consistant across all of the documents.**
+**Note that the file extension can either be `.txt` or `.md`, as long as it is consistant across all of the documents.**\
 
 This standard does not yet define what to do when the upper limit is reached. It is recommended that you use 5 places instead of 4 if the limit is reached, or break up your research paper into an anthology if you have ten-thousand references.
 
@@ -50,6 +50,24 @@ Doe, Jane E.
 A brief history of the steam engine.
 1 April 2024.
 https://www.example.com/
+Example Website
+
+"""
+The history of the steam engine is a fascinating journey through innovation and technological advancement. The story begins in the early 18th century with Thomas Newcomen, an English inventor, who created the first practical steam engine in 1712. Newcomen's engine was primarily used for pumping water out of mines and was a significant improvement over previous methods.
+"""
+
+First practical steam engine was invented by Thomas Newcomen in 1712.
+```
+
+If the `.md` file extension is used, ensure to add `\` at the end of the first lines to ensure newlines are created. Do not use `  `.
+
+Example:
+```
+Abdul-Ahad, Caden Joseph.\
+Doe, Jane E.\
+A brief history of the steam engine.\
+1 April 2024.\
+https://www.example.com/\
 Example Website
 
 """
