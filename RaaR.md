@@ -19,6 +19,8 @@ Every repository must have a `/research` directory or one that  is similarly tit
 
 Inside of the `/research` directory must be numerical reference text documents going in order from `0001.txt` to `9999.txt`.
 
+**Note that the file extension can either be `.txt1` or `.md`, as long as it is consistant across all of the documents.**
+
 This standard does not yet define what to do when the upper limit is reached. It is recommended that you use 5 places instead of 4 if the limit is reached, or break up your research paper into an anthology if you have ten-thousand references.
 
 ## Reference Document Structure
