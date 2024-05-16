@@ -83,8 +83,6 @@ First practical steam engine was invented by Thomas Newcomen in 1712.
 
 ### Special Cases
 
-#### No Author
-
 If there is no author, replace with:
 ```
 Author unknown.
