@@ -13,7 +13,7 @@ Revision 1.0
 - / 9999.txt
 ```
 
-Every repository must have a `README.md` in the root directiry. This `README.md` should contain the project name, a description, the author, and the RaaR revision / version it uses (These can be stated in any particular order).
+Every repository must have a `README.md` in the root directiry. This `README.md` should contain the project name, a description, the author(s), contact information, and the RaaR revision / version it uses (These can be stated in any particular order, but in a friendly and readable way).
 
 Every repository must have a `/research` directory or one that  is similarly titled or descriptively-named.
 
