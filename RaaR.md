@@ -15,9 +15,9 @@ Revision 1.0
 
 Every repository must have a `README.md` in the root directiry. This `README.md` should contain the project name, a description, the author(s), contact information, and the RaaR revision / version it uses (These can be stated in any particular order, but in a friendly and readable way).
 
-Every repository must have a `/research` directory or one that  is similarly titled or descriptively-named.
+Every repository must have a `/research` directory or one that is similarly titled or descriptively-named.
 
-Inside of the `/research` directory must be numerical reference text documents going in order from `0001.txt` to `9999.txt`.
+Inside of the `/research` directory must be numerical reference text documents going in order from `0001.txt` to `9999.txt`. This includes both references and notes.
 
 **Note that the file extension can either be `.txt` or `.md`, as long as it is consistant across all of the documents.**\
 
@@ -40,7 +40,7 @@ Spec.:
 [Direct quote from the original source document in which the reference uses.]
 """
 
-[Optional: why was this quote used?]
+[Optional: explanation on why the quote was used, or extra notes on the reference.]
 ```
 
 Example:
