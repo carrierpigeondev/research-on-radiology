@@ -1,0 +1,12 @@
+Abdul-Ahad, Caden Joseph.
+Unknown author.
+History of Radiology: Timeline, Pioneers, Inventions
+13 December 2021
+https://www.ramsoft.com/history-of-radiology
+RamSoft
+
+"""
+The history of radiology has started with the discovery of X-Ray by Wilhelm Roentgen in 1895. During his career, physicist Wilhelm Conrad Röntgen centered his work on studying subjects such as: piezoelectricity, absorption and specific heats of gases, and capillary action of fluids. These studies, while experimenting with a cathode-ray tube and glass at the University of Würzburg, unexpectedly led to the 1895 discovery of invisible rays capable of passing through most substances, leaving shadows which could be recorded on photographic plates.
+"""
+
+Quote gives name of discoverer of X-rays, the year, that he was a physicist, experimented with vacuum (cathode-ray) tubes, and the university at which he discovered X-rays.
