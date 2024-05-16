@@ -105,7 +105,7 @@ First practical steam engine was invented by Thomas Newcomen in 1712.
 
 If there is no author, replace with:
 ```
-Author unknown.
+Unknown author.
 ```
 
 If there are two authors, format as:
