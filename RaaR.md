@@ -62,7 +62,7 @@ First practical steam engine was invented by Thomas Newcomen in 1712.
 If the `.md` file extension is used, ensure to add `\` at the end of the first lines to ensure newlines are created. Do not use `  `.
 
 Example:
-```
+```md
 Abdul-Ahad, Caden Joseph.\
 Doe, Jane E.\
 A brief history of the steam engine.\
