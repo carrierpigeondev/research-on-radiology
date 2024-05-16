@@ -33,6 +33,12 @@ Spec.:
 [Publication day] [Unabbreviated publication month] [Publication year].
 [Entire url including protocol://, full hostname, full pathname, filename, and search (if applicable), but excluding the port and the hash. Use https://url-parts.glitch.me/ if unsure of which parts to include and exclude]
 [Name of the website retrieved or organization, whichever is more relevant].
+
+"""
+[Direct quote from the original source document in which the reference uses.]
+"""
+
+[Optional: why was this quote used?]
 ```
 
 Example:
@@ -43,6 +49,12 @@ A brief history of the steam engine.
 1 April 2024.
 https://www.example.com/
 Example Website
+
+"""
+The history of the steam engine is a fascinating journey through innovation and technological advancement. The story begins in the early 18th century with Thomas Newcomen, an English inventor, who created the first practical steam engine in 1712. Newcomen's engine was primarily used for pumping water out of mines and was a significant improvement over previous methods.
+"""
+
+First practical steam engine was invented by Thomas Newcomen in 1712.
 ```
 
 If the source is not an online source, exclude the URL and website and include:
@@ -61,6 +73,12 @@ A brief history of the steam engine.
 Publisher Name
 Vol. 1.
 Pg. 23.
+
+"""
+The history of the steam engine is a fascinating journey through innovation and technological advancement. The story begins in the early 18th century with Thomas Newcomen, an English inventor, who created the first practical steam engine in 1712. Newcomen's engine was primarily used for pumping water out of mines and was a significant improvement over previous methods.
+"""
+
+First practical steam engine was invented by Thomas Newcomen in 1712.
 ```
 
 ### Special Cases
